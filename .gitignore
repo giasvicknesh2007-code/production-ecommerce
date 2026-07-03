@@ -1,2 +1,26 @@
+# Node.js
 backend/node_modules/
+
+# Environment files
 backend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Helm
+*.tgz
