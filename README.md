@@ -22,5 +22,3 @@ Production-grade cloud-native e-commerce platform.
 - Loki
 
 ## Project Structure
-# production-ecommerce
-# production-ecommerce
