@@ -1,0 +1,26 @@
+# Production E-Commerce Platform
+
+## Overview
+
+Production-grade cloud-native e-commerce platform.
+
+## Technology Stack
+
+
+- React
+- Node.js
+- PostgreSQL
+- Redis
+- Docker
+- Kubernetes
+- Helm
+- Terraform
+- AWS EKS
+- Amazon ECR
+- GitHub Actions
+- Prometheus
+- Grafana
+- Loki
+
+## Project Structure
+# production-ecommerce
